@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Alejandro Díaz
 
-<!--
-**AlejandroDiar/AlejandroDiar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actualmente estoy cursando **2º de ASIR (Administración de Sistemas Informáticos en Red)**  
+💻 Apasionado por la **administración de sistemas, redes, hardware y ciberseguridad**  
+🚀 Mi objetivo es seguir creciendo como profesional en el área de la **infraestructura IT** y la **gestión de entornos empresariales**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías y herramientas
+- **Sistemas Operativos:** Linux (Debian, Ubuntu, CentOS), Windows Server  
+- **Redes y servicios:** DNS, DHCP, Apache/Nginx, FTP, SSH, Firewall  
+- **Virtualización y contenedores:** VMware, VirtualBox, Proxmox, Docker  
+- **Bases de datos:** MySQL 
+- **Automatización y scripting:** Bash, PowerShell, javascript 
+
+---
+
+## 📈 Lenguajes de programación
+
+- **HTML/CSS** ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 60%  
+- **JavaScript** ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 20%  
+- **MySQL** ▓▓░░░░░░░░░░░░░░░░░░░░░░ 8%  
+- **Bash** ▓░░░░░░░░░░░░░░░░░░░░░░░ 6%  
+- **PowerShell** ▓░░░░░░░░░░░░░░░░░░░░░░░ 6%  
+
+---
+
+## 📫 Contacto
+- 📧 Email: [aleandrodiar@gmail.com.com]  
+- 💼 LinkedIn: [Tu Perfil de LinkedIn]  
+- 🖥️ Portafolio / Blog: [tuweb.com] *(si tienes)*  
+
+---
+
+✨ *Siempre en búsqueda de nuevos retos y oportunidades para seguir aprendiendo y aportar valor en el mundo IT.*
+
+
