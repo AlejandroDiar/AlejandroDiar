@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Alejandro Díaz
+#  💻 Alejandro Díaz 👾
 
 🎓 Actualmente estoy cursando **2º de ASIR (Administración de Sistemas Informáticos en Red)**  
 💻 Apasionado por la **administración de sistemas, redes, hardware y ciberseguridad**  
